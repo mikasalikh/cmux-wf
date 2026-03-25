@@ -1,6 +1,6 @@
 # cmux-wf
 
-Scripts and Claude Code skill for orchestrating [Claude Code](https://claude.ai) workflows inside [cmux](https://cmux.com) — a terminal multiplexer with sidebar status, logs, notifications, and workspace management.
+A workflow package for orchestrating multi-agent [Claude Code](https://claude.ai) workflows inside [cmux](https://cmux.com) — a terminal multiplexer with sidebar status, logs, notifications, and workspace management. Especially useful for working on large projects where tasks can be parallelized across multiple agents.
 
 **[Русская версия](README_RU.md)**
 
